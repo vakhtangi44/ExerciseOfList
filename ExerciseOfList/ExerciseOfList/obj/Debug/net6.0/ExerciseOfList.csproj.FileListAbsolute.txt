@@ -1,0 +1,15 @@
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\bin\Debug\net6.0\ExerciseOfList.exe
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\bin\Debug\net6.0\ExerciseOfList.deps.json
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\bin\Debug\net6.0\ExerciseOfList.runtimeconfig.json
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\bin\Debug\net6.0\ExerciseOfList.dll
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\bin\Debug\net6.0\ExerciseOfList.pdb
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.csproj.AssemblyReference.cache
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.AssemblyInfoInputs.cache
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.AssemblyInfo.cs
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.csproj.CoreCompileInputs.cache
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.dll
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\refint\ExerciseOfList.dll
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.pdb
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ExerciseOfList.genruntimeconfig.cache
+C:\Users\vakht\source\repos\ExerciseOfList\ExerciseOfList\obj\Debug\net6.0\ref\ExerciseOfList.dll
