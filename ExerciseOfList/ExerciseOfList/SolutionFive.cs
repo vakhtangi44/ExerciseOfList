@@ -32,7 +32,7 @@ namespace ExerciseOfList
             list.Sort();
 
             for (int i = 0; i < 3; i++)
-                Console.Write("{0} ", list[i]);
+                Console.Write($"{list[i]} ");
         }
     }
 }
